@@ -4,7 +4,7 @@ const sizeMap = {
   small: 100,
   medium: 150,
   large: 200,
-  xl: 250,
+  extralarge: 250,
 };
 
 function initBoxes() {
